@@ -35,8 +35,3 @@ Then visit: `http://127.0.0.1:5000` in your browser.
   "time": "2025-05-13T09:00:00"
 }
 ```
-
-## 💡 Future Ideas
-- GeoIP lookup
-- Alerts on unknown devices
-- Web dashboard for live logs
